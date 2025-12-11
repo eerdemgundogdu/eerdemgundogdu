@@ -79,25 +79,10 @@ Electrical \& Electronics Engineering student at Çukurova University. Currently
 
 
 
----
-
-
-
-
-### 📊 Engineering Metrics
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eerdemgundogdu&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&text_bold=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eerdemgundogdu&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&text_bold=false" height="150" alt="languages graph" />
-</div>
-
-
----
-
-
 
 \### 📫 Contact for Opportunities
 
-\* \*\*LinkedIn:\*\* \[linkedin.com/in/eerdemgundogdu](https://linkedin.com/in/SENIN-LINKEDIN-KULLANICI-ADIN)
+\* \*\*LinkedIn:\*\* \[https://www.linkedin.com/in/cihanerdemgundogdu/](https://www.linkedin.com/in/cihanerdemgundogdu/)
 
 \* \*\*Email:\*\* \[eerddemgundogdu@gmail.com](mailto:eerdemgundogdu@gmail.com)
 
@@ -108,6 +93,7 @@ Electrical \& Electronics Engineering student at Çukurova University. Currently
 &nbsp; <sub><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></sub>
 
 </div>
+
 
 
 
