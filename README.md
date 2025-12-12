@@ -25,7 +25,7 @@ Electrical \& Electronics Engineering student at Çukurova University. Currently
 
 
 
-| Domain | Technologies \& Standards |
+ | Technologies \& Standards |
 
 | :--- | :--- |
 
@@ -93,6 +93,7 @@ Electrical \& Electronics Engineering student at Çukurova University. Currently
 &nbsp; <sub><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></sub>
 
 </div>
+
 
 
 
