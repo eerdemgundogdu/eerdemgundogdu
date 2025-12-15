@@ -82,9 +82,9 @@ Electrical \& Electronics Engineering student at Çukurova University. Currently
 
 \### 📫 Contact for Opportunities
 
-\* \*\*LinkedIn:\*\* \[https://www.linkedin.com/in/cihanerdemgundogdu/](https://www.linkedin.com/in/cihanerdemgundogdu/)
+\* \*\*LinkedIn:\*\* \[https://www.linkedin.com/in/cihanerdemgundogdu/]
 
-\* \*\*Email:\*\* \[eerddemgundogdu@gmail.com](mailto:eerdemgundogdu@gmail.com)
+\* \*\*Email:\*\* \[eerddemgundogdu@gmail.com]
 
 
 
@@ -93,6 +93,7 @@ Electrical \& Electronics Engineering student at Çukurova University. Currently
 &nbsp; <sub><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></sub>
 
 </div>
+
 
 
 
