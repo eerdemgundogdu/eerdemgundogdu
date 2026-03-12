@@ -13,6 +13,7 @@
 
 
 \### 📡 Engineering Summary
+
 Electrical \& Electronics Engineering student at Çukurova University. Currently leading embedded software teams for competitive defense industry projects TEKNOFEST and ELROB(Switzerland). Dedicated to building robust, safety-critical software for unmanned systems. I specialize in optimizing C/C++ code for resource-constrained hardware.
 
 
@@ -93,6 +94,7 @@ Electrical \& Electronics Engineering student at Çukurova University. Currently
 &nbsp; <sub><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></sub>
 
 </div>
+
 
 
 
