@@ -14,7 +14,7 @@
 
 \### 📡 Engineering Summary
 
-Electrical \& Electronics Engineering student at Çukurova University. Currently leading embedded software teams for competitive defense industry projects TEKNOFEST and ELROB(Switzerland). Dedicated to building robust, safety-critical software for unmanned systems. I specialize in optimizing C/C++ code for resource-constrained hardware.
+Electrical \& Electronics Engineering student at Çukurova University. Currently leading embedded software teams for competitive defense industry projects TEKNOFEST. Dedicated to building robust, safety-critical software for unmanned systems. I specialize in optimizing C/C++ code for resource-constrained hardware.
 
 
 
@@ -59,8 +59,6 @@ Electrical \& Electronics Engineering student at Çukurova University. Currently
 \* \*\*Engineering Challenge:\*\* Implemented a PID controller for active stabilization during the propulsive landing phase. Optimized sensor data reading for <10ms loop times.
 
 
-
-\#### \[🤖 Kongar UGV (Unmanned Ground Vehicle)](https://github.com/eerdemgundogdu/kongar-ugv\_completed)
 
 \*Lead developer for the autonomous navigation stack of a tracked military-grade UGV.\*
 
